@@ -1,2 +1,2 @@
 #!/bin/bash
-~/.bash_profile
+su whoami 
